@@ -10,6 +10,6 @@ public class LongestSubstringWithSameLettersAfterReplacement {
     }
 
     public static int getLength(String s, int k) {
-        
+        return 0;
     }
 }
