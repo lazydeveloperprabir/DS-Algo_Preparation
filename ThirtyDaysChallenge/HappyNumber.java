@@ -51,13 +51,13 @@ public class HappyNumber {
 
     public static boolean isBetterHappy(int n) {
         HashSet<Integer> set = new HashSet<Integer>();
-while(!set.contains(n)){
-set.add(n);
-n = getSum(n);
-if(n==1)
-return true;
-}
-return false;
+       while(!set.contains(n)){
+        set.add(n);
+        n = getSum(n);
+        if(n==1)
+         return true;
+        }
+         return false;
     }
     
    public static int getSum(int n){
