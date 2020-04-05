@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThePowerPuffGirls",
+            "request": "launch",
+            "mainClass": "ThePowerPuffGirls",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FibonnaciSeries",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.FibonnaciSeries",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HappyNumber<DS-Algo_Preparation_d5467fd8>",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.HappyNumber",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxContigousSubArray<DS-Algo_Preparation_d5467fd8>",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.MaxContigousSubArray",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MoveZeros<DS-Algo_Preparation_d5467fd8>",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.MoveZeros",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SingleNumber<DS-Algo_Preparation_d5467fd8>",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.SingleNumber",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        }
+    ]
+}
