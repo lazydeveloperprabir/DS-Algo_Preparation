@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GroupAnagrams",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.GroupAnagrams",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BestTimeToBuyAndSellStocksII",
             "request": "launch",
             "mainClass": "ThirtyDaysChallenge.BestTimeToBuyAndSellStocksII",
