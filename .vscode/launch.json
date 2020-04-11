@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DiameterOfBinaryTree",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.DiameterOfBinaryTree",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BackspaceStringCompare",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.BackspaceStringCompare",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MiddleNodeofLinkedList",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.MiddleNodeofLinkedList",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CountingElements",
             "request": "launch",
             "mainClass": "ThirtyDaysChallenge.CountingElements",
