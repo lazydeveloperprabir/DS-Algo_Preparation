@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CheckTwoBinaryTreesareIdentical",
+            "request": "launch",
+            "mainClass": "Trees.CheckTwoBinaryTreesareIdentical",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FibonnaciSeries",
             "request": "launch",
             "mainClass": "DynamicProgramming.FibonnaciSeries",

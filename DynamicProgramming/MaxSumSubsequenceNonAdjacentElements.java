@@ -17,6 +17,6 @@ public class MaxSumSubsequenceNonAdjacentElements {
     }
 
     public static int maxSum(int[] nums) {
-            
+            return -1;
     }
 }
