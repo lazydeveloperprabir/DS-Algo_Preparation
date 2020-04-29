@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BitWiseANDOfNumberRange",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.BitWiseANDOfNumberRange",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringShifts",
+            "request": "launch",
+            "mainClass": "ThirtyDaysChallenge.StringShifts",
+            "projectName": "DS-Algo_Preparation_d5467fd8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LastStoneWeight",
             "request": "launch",
             "mainClass": "ThirtyDaysChallenge.LastStoneWeight",
